@@ -3,13 +3,13 @@
 #include "bits/stdc++.h"
 
 #define ll long long
-
 #define vi  vector <int>
 #define vs  vector <string>
 #define vll  vector <long long>
 #define vpii vector <pair <int, int> >
 #define vpss vector <pair <string, string> >
 #define vpll vector <pair <long long, long long> >
+
 #define pii pair <int,int>
 #define pll pair <long long, long long>
 #define pss pair <string, string>
