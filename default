@@ -18,10 +18,10 @@
 #define all(a) a.begin(), a.end()
 #define rall(a) a.rbegin(), a.rend()
 
-#define fi(i,a,b) for(int i=a; i<b; i++)
-#define fl(i,a,b) for(long long i=a; i<b; i++)
-#define rfi(i,a,b) for(int i=a; i>=b; i--)
-#define rfl(i,a,b) for(long long i=a; i>=b; i--)
+#define fi(i,a,b,c) for(int i=a; i<b; i+=c)
+#define fl(i,a,b,c) for(long long i=a; i<b; i+=c)
+#define rfi(i,a,b,c) for(int i=a; i>=b; i-=c)
+#define rfl(i,a,b,c) for(long long i=a; i>=b; i-=c)
 
 #define pb  push_back
 #define mk  make_pair
@@ -53,5 +53,5 @@ const int MAXN = 1e6 + 5;
     public:
 };*/
 
-/*void solve() {
-} int main(){ ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL); solve(); return 0; }*/
+//void solve() {
+//} int main(){ ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL); solve(); return 0; }
