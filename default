@@ -1,9 +1,8 @@
-/* # # # _realRPG_ # # # */
+/* realRPG | India */
 
 #include "bits/stdc++.h"
 
 #define ll long long
-#define ull unsigned long long
 
 #define vi  vector <int>
 #define vs  vector <string>
@@ -54,4 +53,8 @@ const int MAXN = 1e6 + 5;
 };*/
 
 //void solve() {
-//} int main(){ ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL); solve(); return 0; }
+//} int main() { ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL); solve(); return 0; }
+
+// Powered by KawigiEdit 2.1.4 (beta) modified by pivanof! [Topcoder] (Appirio, Wipro Ltd.) 
+// Powered by Greed 2.0-RC [Topcoder] (Appirio, Wipro Ltd.) 
+// Standalone code editor powered by JavaScript and Chromium (GitHub Inc.)
