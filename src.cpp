@@ -1,4 +1,3 @@
-
 /* realRPG | India */
 
 #include "bits/stdc++.h"
@@ -58,4 +57,4 @@ const int MAXN = 1e6 + 5;
 
 // Powered by KawigiEdit 2.1.4 (beta) modified by pivanof! [Topcoder] (Appirio, Wipro Ltd.) 
 // Powered by Greed 2.0-RC [Topcoder] (Appirio, Wipro Ltd.) 
-// Standalone code editor powered by JavaScript and Chromium (GitHub Inc.)
+// SCE powered by JavaScript and Chromium (GitHub Inc.)
