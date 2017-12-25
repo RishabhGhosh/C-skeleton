@@ -5,6 +5,7 @@
 #define ll long long
 #define all(a) a.begin(), a.end()
 #define rall(a) a.rbegin(), a.rend()
+#define rep(i,n) for(long long i=0; i<n;i++)
 #define fl(i,a,b,c) for(long long i=a; i<b; i+=c)
 #define rfl(i,a,b,c) for(long long i=a; i>=b; i-=c)
 
@@ -30,9 +31,14 @@ const int MAXN = 1e6 + 5;
         return flag*ret;
 }*/
 
-/*class {
-    public:
-};*/
+//class { public: };
 
-//void solve() {
-//} int main() { ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL); solve(); return 0; }
+/*void solve() {
+} 
+
+int main() { 
+        ios_base::sync_with_stdio(false); 
+        cin.tie(NULL); cout.tie(NULL); 
+        solve(); 
+        return 0; 
+}*/
