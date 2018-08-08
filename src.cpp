@@ -12,6 +12,7 @@
 #define fld(i,a,b,c) for(ld i=a; i<b; i+=c)
 #define fl(i,a,b,c) for(ll i=a; i<b; i+=c)
 #define rfl(i,a,b,c) for(ll i=a; i>=b; i-=c) 
+#define endt (double)(clock() - tStart)/CLOCKS_PER_SEC
 #define rep(i,n) fl(i,0,n,1)
 #define rrep(i,n) rfl(i,n-1,0,1)
 #define sas int tt; cin >> tt; rep(tc,tt) 
