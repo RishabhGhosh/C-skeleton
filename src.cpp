@@ -27,9 +27,11 @@ const int MAXN = 1e6 + 5;
 void solve() {  
 }
 
-int main() { 
+int main() {             
     ios_base::sync_with_stdio(false); 
     cin.tie(NULL); cout.tie(NULL); 
+    clock_t tStart = clock(); 
     solve(); 
+    printf("\n%.6f\n", endt);
     return 0; 
 }
